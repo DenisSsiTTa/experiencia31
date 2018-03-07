@@ -1,5 +1,7 @@
 
-Denisse Velásquez
+Alumno: Denisse Velásquez Salazar
+mail: denisse.velasquez@gmail.com
+
 
 1) Crear una base de datos llamada call_list
 
